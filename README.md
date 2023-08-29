@@ -6,9 +6,9 @@ Affordances are an important basis for many human-environment interactions such 
 
 This repository contains the code and data we are working on to model affordances and affordances schemata.
 
-The model we work on is called aff_ParkScenario. It is represented in the form of an xml file and the file name contains a version number. In addition, some pictures are used to better visualize the individual objects within the model. Those may be found in the zip-folder named pictures.
+The model we work on is called aff_ParkScenario. It is represented in the form of an xml file and the file name contains a version number. In addition, some pictures are used to better visualize the individual objects within the model. Those may be found in the zipped folder named pictures.
 
-In order to run the model you will need a working version of the software called **[SeSAm](https://multiagentsimulation.com/)**, which is a fully visual platform for developing and simulation agent-based models. We also use some extensions to SeSAm, which may be found in the folder extensions.
+In order to run the model you will need a working version of the software called **[SeSAm](https://multiagentsimulation.com/)**, which is a fully visual platform for developing and simulation agent-based models. We also use some extensions to SeSAm, which may be found in the zipped folder named plugins.
 
 
 ## Contact
