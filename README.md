@@ -10,8 +10,6 @@ The model we work on is called aff_ParkScenario. It is represented in the form o
 
 In order to run the model you will need a working version of the software called **[SeSAm](https://multiagentsimulation.com/)**, which is a fully visual platform for developing and simulation agent-based models. We also use some extensions to SeSAm, which may be found in the zipped folder named plugins.
 
-More information on setup etc. will be forthcoming soon, coinciding with the start of the conference.
-
 
 ## Contact
 
